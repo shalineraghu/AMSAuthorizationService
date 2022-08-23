@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rPATdqlOv8SVjtESsWhctlh6Y0iw73IMZANNn8UKDGyiz9QVjpFXGqC9jomO7vpBpmS666ZTnjTRPN0FJ5dBlg==",
+  "dgSpecHash": "FnTUCzJYu5cahs7UnashUvXUl4GYTmtA9VMAKvQhEsNKDgXJPwjx+Y/MHuDoQfd2mdxlfRw2DvgAA1Id9AvhwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Shali\\OneDrive\\Desktop\\FSE\\AMS\\AMS - Backend\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj",
   "expectedPackageFiles": [
@@ -51,6 +51,7 @@
     "C:\\Users\\Shali\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Shali\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Shali\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Shali\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Shali\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Shali\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Shali\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
