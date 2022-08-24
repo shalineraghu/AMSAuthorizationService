@@ -29,7 +29,6 @@ spec:
   type: LoadBalancer
   ports:
   - port: 80
-  - nodeport: 8080
   selector:
     app: authorizationservice
 
